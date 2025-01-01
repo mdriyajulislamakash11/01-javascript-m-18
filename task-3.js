@@ -24,4 +24,4 @@ if(score >= 90 && score <= 100){
       console.log("Sorry, your grade is F. Better luck next time.")
 }else{
       console.log("tmi ekhon exam na diye pore diyo")
-}
+};
